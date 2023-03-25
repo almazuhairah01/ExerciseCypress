@@ -1,0 +1,14 @@
+{
+  "firstname": "Name",
+  "surename": "Testing",
+  "validusername": "NameTesting",
+  "pass": "pass123",
+  "conpasserr": "'Confirm password' and 'Password' do not match.",
+
+  "firstnameerr": "Please enter first name",
+  "surnameerr": "Please enter surname",
+  "usernameerr": "Please enter username",
+  "passerror": "Please enter password",
+
+  "usernameterdaftar": "Username already exist"
+}

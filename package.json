@@ -1,0 +1,15 @@
+{
+  "name": "exercisecypress",
+  "version": "1.0.0",
+  "description": "Last Task Bootcamp TAK - Exercise Cypress ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "npx cypress run --browser chrome --spec 'cypress/e2e/3-exercisecypress/**.*'"
+  },
+  "author": "Alma Zuhairah",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.8.1"
+  }
+}

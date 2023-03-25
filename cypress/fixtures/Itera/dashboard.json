@@ -1,0 +1,17 @@
+{
+  "validusername": "NameTesting",
+  "invalidusername": "Name",
+  "pass": "pass123",
+  "passerr": "Please enter password",
+  "usernameerr": "Wrong username or password",
+  "company": "TestCompany",
+  "address": "Adressssss",
+  "city": "City",
+  "phone": "00000",
+  "validemail": "testname@yahoo.com",
+  "invalidemail": "test@yahoo.com",
+  "h1d": "Dashboard",
+  "h2e": "Edit",
+  "h2dc": "Customer Details",
+  "invalid": "No Match"
+}

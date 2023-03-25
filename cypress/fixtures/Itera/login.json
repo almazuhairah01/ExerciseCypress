@@ -1,0 +1,9 @@
+{
+  "validusername": "NameTesting",
+  "invalidusername": "Name",
+  "pass": "pass123",
+  "passerr": "Please enter password",
+  "usernameerr": "Wrong username or password",
+  "h1d": "Dashboard",
+  "dashboardl": "LOGIN"
+}
